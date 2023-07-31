@@ -1,0 +1,51 @@
+C:\Users\ogwuc\source\repos\ContactBook\ContactBook.Services\bin\Debug\net6.0\ContactBook.Services.deps.json
+C:\Users\ogwuc\source\repos\ContactBook\ContactBook.Services\bin\Debug\net6.0\ContactBook.Services.dll
+C:\Users\ogwuc\source\repos\ContactBook\ContactBook.Services\bin\Debug\net6.0\ContactBook.Services.pdb
+C:\Users\ogwuc\source\repos\ContactBook\ContactBook.Services\obj\Debug\net6.0\ContactBook.Services.csproj.AssemblyReference.cache
+C:\Users\ogwuc\source\repos\ContactBook\ContactBook.Services\obj\Debug\net6.0\ContactBook.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ogwuc\source\repos\ContactBook\ContactBook.Services\obj\Debug\net6.0\ContactBook.Services.AssemblyInfoInputs.cache
+C:\Users\ogwuc\source\repos\ContactBook\ContactBook.Services\obj\Debug\net6.0\ContactBook.Services.AssemblyInfo.cs
+C:\Users\ogwuc\source\repos\ContactBook\ContactBook.Services\obj\Debug\net6.0\ContactBook.Services.csproj.CoreCompileInputs.cache
+C:\Users\ogwuc\source\repos\ContactBook\ContactBook.Services\obj\Debug\net6.0\ContactBook.Services.dll
+C:\Users\ogwuc\source\repos\ContactBook\ContactBook.Services\obj\Debug\net6.0\refint\ContactBook.Services.dll
+C:\Users\ogwuc\source\repos\ContactBook\ContactBook.Services\obj\Debug\net6.0\ContactBook.Services.pdb
+C:\Users\ogwuc\source\repos\ContactBook\ContactBook.Services\obj\Debug\net6.0\ref\ContactBook.Services.dll
+C:\Users\ogwuc\source\repos\ContactBook\ContactBook.Services\bin\Debug\net6.0\ContactBook.Data.dll
+C:\Users\ogwuc\source\repos\ContactBook\ContactBook.Services\bin\Debug\net6.0\ContactBook.Models.dll
+C:\Users\ogwuc\source\repos\ContactBook\ContactBook.Services\bin\Debug\net6.0\ContactBook.Data.pdb
+C:\Users\ogwuc\source\repos\ContactBook\ContactBook.Services\bin\Debug\net6.0\ContactBook.Models.pdb
+C:\Users\ogwuc\source\repos\ContactBook\ContactBook.Services\obj\Debug\net6.0\ContactBook.Services.csproj.CopyComplete
+C:\Users\ogwuc\source\Professional Repo\ContactBook_API\ContactBook.Services\bin\Debug\net6.0\ContactBook.Services.deps.json
+C:\Users\ogwuc\source\Professional Repo\ContactBook_API\ContactBook.Services\bin\Debug\net6.0\ContactBook.Services.dll
+C:\Users\ogwuc\source\Professional Repo\ContactBook_API\ContactBook.Services\bin\Debug\net6.0\ContactBook.Services.pdb
+C:\Users\ogwuc\source\Professional Repo\ContactBook_API\ContactBook.Services\bin\Debug\net6.0\ContactBook.Data.dll
+C:\Users\ogwuc\source\Professional Repo\ContactBook_API\ContactBook.Services\bin\Debug\net6.0\ContactBook.Models.dll
+C:\Users\ogwuc\source\Professional Repo\ContactBook_API\ContactBook.Services\bin\Debug\net6.0\ContactBook.Data.pdb
+C:\Users\ogwuc\source\Professional Repo\ContactBook_API\ContactBook.Services\bin\Debug\net6.0\ContactBook.Models.pdb
+C:\Users\ogwuc\source\Professional Repo\ContactBook_API\ContactBook.Services\obj\Debug\net6.0\ContactBook.Services.csproj.AssemblyReference.cache
+C:\Users\ogwuc\source\Professional Repo\ContactBook_API\ContactBook.Services\obj\Debug\net6.0\ContactBook.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ogwuc\source\Professional Repo\ContactBook_API\ContactBook.Services\obj\Debug\net6.0\ContactBook.Services.AssemblyInfoInputs.cache
+C:\Users\ogwuc\source\Professional Repo\ContactBook_API\ContactBook.Services\obj\Debug\net6.0\ContactBook.Services.AssemblyInfo.cs
+C:\Users\ogwuc\source\Professional Repo\ContactBook_API\ContactBook.Services\obj\Debug\net6.0\ContactBook.Services.csproj.CoreCompileInputs.cache
+C:\Users\ogwuc\source\Professional Repo\ContactBook_API\ContactBook.Services\obj\Debug\net6.0\ContactBook.Services.csproj.CopyComplete
+C:\Users\ogwuc\source\Professional Repo\ContactBook_API\ContactBook.Services\obj\Debug\net6.0\ContactBook.Services.dll
+C:\Users\ogwuc\source\Professional Repo\ContactBook_API\ContactBook.Services\obj\Debug\net6.0\refint\ContactBook.Services.dll
+C:\Users\ogwuc\source\Professional Repo\ContactBook_API\ContactBook.Services\obj\Debug\net6.0\ContactBook.Services.pdb
+C:\Users\ogwuc\source\Professional Repo\ContactBook_API\ContactBook.Services\obj\Debug\net6.0\ref\ContactBook.Services.dll
+C:\Users\Decagon Laptop\Downloads\ContactBook_API\ContactBook_API\ContactBook.Services\bin\Debug\net6.0\ContactBook.Services.deps.json
+C:\Users\Decagon Laptop\Downloads\ContactBook_API\ContactBook_API\ContactBook.Services\bin\Debug\net6.0\ContactBook.Services.dll
+C:\Users\Decagon Laptop\Downloads\ContactBook_API\ContactBook_API\ContactBook.Services\bin\Debug\net6.0\ContactBook.Services.pdb
+C:\Users\Decagon Laptop\Downloads\ContactBook_API\ContactBook_API\ContactBook.Services\bin\Debug\net6.0\ContactBook.Data.dll
+C:\Users\Decagon Laptop\Downloads\ContactBook_API\ContactBook_API\ContactBook.Services\bin\Debug\net6.0\ContactBook.Models.dll
+C:\Users\Decagon Laptop\Downloads\ContactBook_API\ContactBook_API\ContactBook.Services\bin\Debug\net6.0\ContactBook.Data.pdb
+C:\Users\Decagon Laptop\Downloads\ContactBook_API\ContactBook_API\ContactBook.Services\bin\Debug\net6.0\ContactBook.Models.pdb
+C:\Users\Decagon Laptop\Downloads\ContactBook_API\ContactBook_API\ContactBook.Services\obj\Debug\net6.0\ContactBook.Services.csproj.AssemblyReference.cache
+C:\Users\Decagon Laptop\Downloads\ContactBook_API\ContactBook_API\ContactBook.Services\obj\Debug\net6.0\ContactBook.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Decagon Laptop\Downloads\ContactBook_API\ContactBook_API\ContactBook.Services\obj\Debug\net6.0\ContactBook.Services.AssemblyInfoInputs.cache
+C:\Users\Decagon Laptop\Downloads\ContactBook_API\ContactBook_API\ContactBook.Services\obj\Debug\net6.0\ContactBook.Services.AssemblyInfo.cs
+C:\Users\Decagon Laptop\Downloads\ContactBook_API\ContactBook_API\ContactBook.Services\obj\Debug\net6.0\ContactBook.Services.csproj.CoreCompileInputs.cache
+C:\Users\Decagon Laptop\Downloads\ContactBook_API\ContactBook_API\ContactBook.Services\obj\Debug\net6.0\ContactBook.Services.csproj.CopyComplete
+C:\Users\Decagon Laptop\Downloads\ContactBook_API\ContactBook_API\ContactBook.Services\obj\Debug\net6.0\ContactBook.Services.dll
+C:\Users\Decagon Laptop\Downloads\ContactBook_API\ContactBook_API\ContactBook.Services\obj\Debug\net6.0\refint\ContactBook.Services.dll
+C:\Users\Decagon Laptop\Downloads\ContactBook_API\ContactBook_API\ContactBook.Services\obj\Debug\net6.0\ContactBook.Services.pdb
+C:\Users\Decagon Laptop\Downloads\ContactBook_API\ContactBook_API\ContactBook.Services\obj\Debug\net6.0\ref\ContactBook.Services.dll
